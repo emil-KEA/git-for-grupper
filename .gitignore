@@ -1,0 +1,6 @@
+# undlad at putte kompulerede filer (.class) i git
+out/
+# undlad intelliJ specifikke filer i git
+.idea/
+# '*' erstandin for det der står før .filnavn:
+*.iml
